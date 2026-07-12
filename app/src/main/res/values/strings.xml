@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Macro Assistant</string>
+    <string name="accessibility_service_description">This service is used to record your touches and replay macros based on voice commands.</string>
+</resources>

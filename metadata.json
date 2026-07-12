@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Macro Assistant",
+  "description": "A personal automation assistant that records actions and executes them via voice commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
